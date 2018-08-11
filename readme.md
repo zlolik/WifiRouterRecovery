@@ -1,2 +1,4 @@
-Router power restart on NodeMCU board.
-Power connected to router via relay controlled by D4 (GPIO2).
+Router recovery via power restart.  
+Wemos D1 mini NodeMCU board.  
+Router power controlled via relay that connected to D2 (GPIO4).  
+Thanks to Sming framework.  
